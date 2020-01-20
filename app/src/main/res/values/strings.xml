@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoreApp</string>
+    <string name="team_a">TEAM A</string>
+    <string name="team_b">TEAM B</string>
+    <string name="_1_point">-1 Point</string>
+    <string name="_2_points">+2 points</string>
+    <string name="_1_pointk">+1 point</string>
+    <string name="_3_points">+3 points</string>
+</resources>
